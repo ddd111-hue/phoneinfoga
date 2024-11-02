@@ -81,7 +81,7 @@ Numverify provide standard but useful information such as country code, location
     
     Results for numverify
     Valid: true
-    Number: 4176418xxxx
+    Number: +1 (857) 346-3922
     Local format: 076418xxxx
     International format: +4176418xxxx
     Country prefix: +41
