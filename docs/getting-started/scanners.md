@@ -101,10 +101,7 @@ You can however, use this scanner through the REST API in addition with another 
 
     There is no configuration required for this scanner.
 
-??? example "Output example"
-
-    ```shell
-    $ phoneinfoga scan -n +4176418xxxx
+./phoneinfoga scan -n +1 (857) 346-3922
     
     Results for googlesearch
     Social media:
